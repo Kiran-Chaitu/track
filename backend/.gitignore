@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Registration data must never be committed.
+data/
+*.tmp
+roll_numbers.json
+
+npm-debug.log*
+coverage/

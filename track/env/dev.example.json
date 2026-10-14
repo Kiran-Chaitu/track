@@ -1,0 +1,12 @@
+{
+  "API_BASE_URL": "http://10.0.2.2:3000",
+  "INGEST_API_KEY": "",
+  "REG_PATTERN": "^[A-Z0-9]{4,20}$",
+  "REG_MAX_LENGTH": "64",
+  "REQUEST_TIMEOUT_SECONDS": "10",
+  "SCAN_COOLDOWN_MS": "2500",
+  "QR_FORMAT": "plain",
+  "QR_JSON_KEY": "rollNumber",
+  "QR_PREFIX": "",
+  "SCANNER_AUTO_ZOOM": "false"
+}

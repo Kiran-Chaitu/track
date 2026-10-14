@@ -1,0 +1,5 @@
+# Root-level ignores. backend/ and track/ have their own .gitignore files.
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
